@@ -272,9 +272,17 @@
 
 - id: newzmz
   name: NEW字幕组
-  url: https://newzmz.com/tvslist.html?keyword={query}
+  url: https://nz99.xyz/tvslist.html?keyword={query}
   shortcut:
     icon: closed captioning inverted
+    style: black
+    show: false
+
+- id: rrdy
+  name: 人人电影
+  url: https://www.rrdynb.com/plus/search.php?q={query}
+  shortcut:
+    icon: film blue inverted
     style: black
     show: false
 
@@ -337,11 +345,30 @@
     style: black
     show: true
 
+- id: 1337x
+  name: 1337X
+  url: https://1337x.to/search/{query}/1/
+  transcode:
+    from: '%20'
+    to: '+'
+  shortcut:
+    icon: times red inverted
+    style: black
+    show: true
+
 - id: rarbg
   name: RARBG
   url: https://www.rarbggo.to/search/?search={query}
   shortcut:
     icon: file archive blue inverted
+    style: black
+    show: false
+
+- id: btdigg
+  name: BTDigg
+  url: https://en.btdig.com/search?q={query}
+  shortcut:
+    icon: magnet green inverted
     style: black
     show: false
 

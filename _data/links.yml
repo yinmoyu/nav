@@ -292,15 +292,23 @@
 
     - name: NEW
       style: basic
-      url: https://nzmz.xyz/tvslist.html
+      url: https://nz99.xyz/tvslist.html
 
-    - name: 弯弯
+    - name: 人人
       style: blue
-      url: http://wanwansub.com/node/139
+      url: https://www.rrdynb.com/index.html
 
-    - name: 阿哥
+    - name: 团长
       style: orange
-      url: https://agmov.com/
+      url: https://t-rex.tzfile.com/
+
+    # - name: 弯弯
+    #   style: blue
+    #   url: http://wanwansub.com/node/139
+
+    - name: SubHD
+      style: blue
+      url: https://subhd.tv/
 
     # - name: 猪猪
     #   style: purple
@@ -309,6 +317,10 @@
     - name: TNH
       style: basic
       url: https://www.tnhzmz.com/
+
+    # - name: 幻月
+    #   style: basic
+    #   url: https://www.huanyuezmz.site/
 
     - name: 幻樱
       style: pink
